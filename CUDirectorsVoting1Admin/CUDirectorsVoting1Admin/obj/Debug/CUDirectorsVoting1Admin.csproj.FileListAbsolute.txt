@@ -1,0 +1,5 @@
+c:\users\maureen\documents\visual studio 2012\Projects\CUDirectorsVoting1Admin\CUDirectorsVoting1Admin\bin\CUDirectorsVoting1Admin.dll
+c:\users\maureen\documents\visual studio 2012\Projects\CUDirectorsVoting1Admin\CUDirectorsVoting1Admin\bin\CUDirectorsVoting1Admin.pdb
+c:\users\maureen\documents\visual studio 2012\Projects\CUDirectorsVoting1Admin\CUDirectorsVoting1Admin\obj\Debug\CUDirectorsVoting1Admin.csprojResolveAssemblyReference.cache
+c:\users\maureen\documents\visual studio 2012\Projects\CUDirectorsVoting1Admin\CUDirectorsVoting1Admin\obj\Debug\CUDirectorsVoting1Admin.dll
+c:\users\maureen\documents\visual studio 2012\Projects\CUDirectorsVoting1Admin\CUDirectorsVoting1Admin\obj\Debug\CUDirectorsVoting1Admin.pdb
